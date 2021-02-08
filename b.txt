@@ -1,1 +1,1 @@
-Hello git
+This is b.txt on branch feature2
